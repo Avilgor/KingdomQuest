@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 74fc5a9b8464ef248b5f97ee4ddcb28d
+timeCreated: 1525779771
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: EFL17
+  fontNames:
+  - EFL17
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

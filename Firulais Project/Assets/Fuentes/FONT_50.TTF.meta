@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 92d84dc4f03c80c42846920bebb62bb7
+timeCreated: 1525780156
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bayern17
+  fontNames:
+  - Bayern17
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
